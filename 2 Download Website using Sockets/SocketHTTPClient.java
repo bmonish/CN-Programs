@@ -4,7 +4,7 @@ import java.net.*;
 public class SocketHTTPClient {
     public static void main(String[] args) {
           
-        String hostName = "www.google.com";
+        String hostName = "www.martinbroadhurst.com";
         int portNumber = 80;
   
         try {
